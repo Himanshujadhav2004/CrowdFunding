@@ -15,8 +15,8 @@
   font-variation-settings: "slnt" 0;
 }
 
-@layer base {
+ /* @layer base {
   body {
     @apply bg-zinc-950 text-neutral-200;
   }
-}
+}  */
